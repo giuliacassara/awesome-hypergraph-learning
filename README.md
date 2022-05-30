@@ -52,10 +52,10 @@ Inductive Text Classification** [paper](https://aclanthology.org/2020.emnlp-main
 * **Knowledge Hypergraphs: Prediction Beyond Binary Relations** [paper](https://www.ijcai.org/proceedings/2020/0303.pdf)
 
 
-##Datasets 
+## Datasets 
 * **Collection of datasets from Austin R. Benson' research projects.** [website](https://www.cs.cornell.edu/~arb/data/)
 
-##Frameworks
+## Frameworks
 * [HyperNetX](https://github.com/pnnl/HyperNetX) is a Python preliminary library that generalizes traditional graph metrics to hypergraphs, and it provides proper documentation and tutorials.
 * [multihypergraph](github.com/vaibhavkarve/multihypergraph) A simple python package for graph theory that supports multi-edges, hyper-edges, looped-edges and every other combination of these.
 
