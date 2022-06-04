@@ -36,6 +36,7 @@ Convolutional Networks on Hypergraphs** [paper](https://proceedings.neurips.cc/p
 * **Hypergraph Attention Networks** [paper](https://ieeexplore.ieee.org/document/9342986)
 * **HNHN: Hypergraph Networks with Hyperedge Neurons**
 [paper](https://arxiv.org/pdf/2006.12278v1.pdf) | [code](https://github.com/twistedcubic/HNHN)
+* **Hypergraph Learning with Line Expansion** [paper](https://arxiv.org/pdf/2005.04843.pdf)
 * **Hypergraph Attention Isomorphism Network by Learning Line Graph Expansion** [paper](https://ieeexplore.ieee.org/document/9378335) | [code](https://github.com/kdmsit/HAIN)
 * **Be More with Less: Hypergraph Attention Networks for
 Inductive Text Classification** [paper](https://aclanthology.org/2020.emnlp-main.399.pdf)
@@ -50,6 +51,9 @@ Inductive Text Classification** [paper](https://aclanthology.org/2020.emnlp-main
 * **Hyperbolic Hypergraphs for Sequential Recommendation** [paper](https://arxiv.org/pdf/2108.08134.pdf)
 #### Knowledge systems
 * **Knowledge Hypergraphs: Prediction Beyond Binary Relations** [paper](https://www.ijcai.org/proceedings/2020/0303.pdf)
+#### Computer Vision
+* **Adaptive Hypergraph Learning and its Application in Image Classification** [paper](https://ieeexplore.ieee.org/document/6165360)
+* **Inductive Multi-Hypergraph Learning and Its Application on View-Based 3D Object Classification** [paper](https://ieeexplore.ieee.org/document/8424480)
 
 
 ## Datasets 
