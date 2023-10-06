@@ -26,6 +26,7 @@ Kristin Branson,Serge Belongie*
 ## Papers
 
 #### Architectures
+* **Sheaf Hypergraph Networks** [paper](https://arxiv.org/pdf/2304.09097.pdf)
 * **Learning with Hypergraphs: Clustering, Classification, and Embedding.** [paper](https://proceedings.neurips.cc/paper/2006/file/dff8e9c2ac33381546d96deea9922999-Paper.pdf)
 * **You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks.** [paper](https://openreview.net/forum?id=hpBTIv2uy_E) | [code](https://github.com/jianhao2016/AllSet)
 * **HyperGCN: A New Method of Training Graph 
